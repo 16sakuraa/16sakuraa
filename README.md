@@ -1,6 +1,6 @@
 <h1 align="center">Hello y'all, I'm Suppaphol Areewattanawong (Oat)</h1>
-<h3 align="center">a Computer Engineering Student from KMITL.</h3>
-<h3 align="center">16sakuraa is more like my ign name.</h3>
+<h3 align="center">a Computer Engineering Student at KMITL.</h3>
+<h3 align="center">"Learning by Doing"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
