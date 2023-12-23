@@ -1,5 +1,5 @@
 <h1 align="center">Helo y'all, I'm Oat</h1>
-<h3 align="center">a Computer Engineering from KMITL.</h3>
+<h3 align="center">a Computer Engineering Student from KMITL.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
