@@ -1,4 +1,4 @@
-<h1 align="center">Hello y'all, I'm Suppaphol Areewattanawong (Oat)</h1>
+<h1 align="center">Hello There, I'm Suppaphol Areewattanawong (Oat)</h1>
 <h3 align="center">a Computer Engineering Student at KMITL.</h3>
 <h3 align="center">"Learning by Doing"</h3>
 
