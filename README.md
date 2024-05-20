@@ -1,6 +1,5 @@
 <h1 align="center">Hello There, I'm Oat</h1>
 <h3 align="center">a Computer Engineering Student at KMITL.</h3>
-<h3 align="center">"Learning by Doing"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
