@@ -1,5 +1,5 @@
-<h1 align="center">Hello There, I'm Oat</h1>
-<h3 align="center">a Computer Engineering Student at KMITL.</h3>
+
+![giphy (5)](https://github.com/user-attachments/assets/fd6fe079-8a25-441f-8355-2ffc71bfda90)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
